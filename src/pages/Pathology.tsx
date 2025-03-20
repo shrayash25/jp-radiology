@@ -120,9 +120,17 @@ const Pathology: React.FC = () => {
               <h3>Dr. Monika Gupta</h3>
               <p>Senior Pathologist with over 12 years of experience.</p>
               <p className="qualif">
-                MBBS, MD (Pathology), AIIMS Delhi. Specialized in histopathology
-                and molecular diagnostics. Head of Pathology at JP Radiology.
+              "MBBS (JNMC, Bhagalpur), PG  Clinical Pathology (JJMMC, Devangere).
+               Head of Pathology at JP Radiology.
               </p>
+              <p>Specialities:</p>
+              <ul>
+                <li>Histopathology: Grossing, preliminary reporting</li>
+                <li>Haematology: peripheral smear staining and reporting</li>
+                <li>Cytology: FNA, staining and preliminary reporty</li>
+                <li>Blood bank: Cross matching</li>
+                <li>Microbiology: culture, staining and preliminary reporting</li>
+              </ul>
             </div>
           </div>
         </div>
