@@ -11,9 +11,10 @@ const Header: React.FC = () => {
 
   return (
     <header className="header">
-      <div className="logo">
+      {/* Make Logo Clickable */}
+      <NavLink to="/" className="logo" onClick={closeMenu}>
         <img src={logo} alt="JP Radiology Logo" />
-      </div>
+      </NavLink>
 
       {/* Hamburger Icon */}
       <div className="hamburger" onClick={() => setIsOpen(!isOpen)}>
