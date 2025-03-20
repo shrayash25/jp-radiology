@@ -120,7 +120,7 @@ const Pathology: React.FC = () => {
               <h3>Dr. Monika Gupta</h3>
               <p>Senior Pathologist with over 12 years of experience.</p>
               <p className="qualif">
-              "MBBS (JNMC, Bhagalpur), PG  Clinical Pathology (JJMMC, Devangere).
+              MBBS (JNMC, Bhagalpur), PG  Clinical Pathology (JJMMC, Devangere).
                Head of Pathology at JP Radiology.
               </p>
               <p>Specialities:</p>
